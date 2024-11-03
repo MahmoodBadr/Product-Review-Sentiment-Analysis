@@ -1,0 +1,22 @@
+review,cleaned_review,review_length,textblob_polarity,textblob_sentiment,transformer_sentiment,keywords,sentiment_label
+I absolutely love this product! It has changed my life for the better.,i absolutely love this product it has changed my life for the better,13,0.5,Positive,POSITIVE,"['absolutely love', 'product', 'life', 'changed', 'better']",2
+This is the worst purchase I've ever made. Totally disappointed.,this is the worst purchase ive ever made totally disappointed,10,-0.875,Negative,NEGATIVE,['worst purchase ive ever made totally disappointed'],0
+"The quality is okay, but I expected more for the price.",the quality is okay but i expected more for the price,11,0.3,Positive,POSITIVE,"['quality', 'price', 'okay', 'expected']",2
+"Fantastic! I use it every day, and it works perfectly.",fantastic i use it every day and it works perfectly,10,0.7,Positive,POSITIVE,"['works perfectly', 'every day', 'use', 'fantastic']",2
+Not worth the money. I wouldn't buy this again.,not worth the money i wouldnt buy this again,9,-0.15,Negative,NEGATIVE,"['wouldnt buy', 'worth', 'money']",0
+"It's good, but there are better alternatives available.",its good but there are better alternatives available,8,0.5333333333333333,Positive,NEGATIVE,"['better alternatives available', 'good']",0
+Excellent service and a great product. Highly recommend!,excellent service and a great product highly recommend,8,0.6533333333333333,Positive,POSITIVE,"['great product highly recommend', 'excellent service']",2
+I was not impressed with the functionality; it didn't meet my expectations.,i was not impressed with the functionality it didnt meet my expectations,12,-0.5,Negative,NEGATIVE,"['didnt meet', 'impressed', 'functionality', 'expectations']",0
+Great value for money! I would definitely recommend it to others.,great value for money i would definitely recommend it to others,11,0.4,Positive,POSITIVE,"['would definitely recommend', 'great value', 'others', 'money']",2
+I hate this! It broke within a week of use.,i hate this it broke within a week of use,10,-0.8,Negative,NEGATIVE,"['broke within', 'week', 'use', 'hate']",0
+"I love the design, but it could be more durable.",i love the design but it could be more durable,10,0.5,Positive,POSITIVE,"['love', 'durable', 'design', 'could']",2
+Very satisfied with my purchase. It works as described.,very satisfied with my purchase it works as described,9,0.65,Positive,POSITIVE,"['works', 'satisfied', 'purchase', 'described']",2
+I don't think this product is effective at all. Waste of time.,i dont think this product is effective at all waste of time,12,0.19999999999999998,Positive,NEGATIVE,"['dont think', 'waste', 'time', 'product', 'effective']",0
+"It's okay, but the customer service was terrible.",its okay but the customer service was terrible,8,-0.25,Negative,NEGATIVE,"['customer service', 'terrible', 'okay']",0
+Absolutely amazing! Exceeded all my expectations.,absolutely amazing exceeded all my expectations,6,0.6000000000000001,Positive,POSITIVE,"['absolutely amazing exceeded', 'expectations']",2
+Terrible! I wish I had read the reviews before buying.,terrible i wish i had read the reviews before buying,10,-1.0,Negative,NEGATIVE,"['wish', 'terrible', 'reviews', 'read', 'buying']",0
+Works like a charm! I'm very happy with my purchase.,works like a charm im very happy with my purchase,10,1.0,Positive,POSITIVE,"['works like', 'charm im', 'purchase', 'happy']",2
+Not impressed with the features. I expected more innovation.,not impressed with the features i expected more innovation,9,-0.033333333333333326,Negative,NEGATIVE,"['innovation', 'impressed', 'features', 'expected']",0
+This has been a game-changer for me. I can't live without it.,this has been a gamechanger for me i cant live without it,12,0.21818181818181817,Positive,NEGATIVE,"['cant live without', 'gamechanger']",0
+I found it to be overpriced for what it offers.,i found it to be overpriced for what it offers,10,0.1,Positive,NEGATIVE,"['overpriced', 'offers', 'found']",0
+Best investment I've made in a long time!,best investment ive made in a long time,8,0.475,Positive,POSITIVE,"['best investment ive made', 'long time']",2
